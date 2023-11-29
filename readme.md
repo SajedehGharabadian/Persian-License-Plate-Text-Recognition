@@ -30,6 +30,6 @@ python DTRB.ipynb
 
 
 
-| <img src="Demo/image(50).jpg" width="360"> | <img src="Demo/image(52).jpg" width="360"> | <img src="Demo/image(53).jpg" width="360"> <imgsrc="Demo/image(57).jpg" width="360"> | <img src="Demo/image(64).jpg" width="360"> |
+| <img src="Demo/image(50).jpg" width="360"> | <img src="Demo/image(52).jpg" width="360"> | <img src="Demo/image(53).jpg" width="360"> |<imgsrc="Demo/image(57).jpg" width="360"> | <img src="Demo/image(64).jpg" width="360"> |
 | :-:                                     | :-:                    | :-:                   | :-:                            | :-:         |
-|     |     |     |     |     |
+|  31m39174   |   77h82936  |   34u12574  |   35c68936  |  39r75612   |
