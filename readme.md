@@ -32,5 +32,5 @@ python DTRB.ipynb
 | :-: | :-: | :-: | :-: | :-: |
 |     |     |     |     |     |
 | 180 | 182 | 240 | 250 | 250 |
-| <img src="Demo/image(50).jpg" width="100%"> | <img src="Demo/image(52).jpg" width="100%"> | <img src="Demo/image(53).jpg" width="100%"> | <img src="Demo/image(57).jpg" width="100%"> | <img src="Demo/image(64).jpg" width="100%"> |
+| <img src="Demo/image(50).jpg" width="45%"> | <img src="Demo/image(52).jpg" width="45%"> | <img src="Demo/image(53).jpg" width="45%"> | <img src="Demo/image(57).jpg" width="45%"> | <img src="Demo/image(64).jpg" width="45%"> |
 
