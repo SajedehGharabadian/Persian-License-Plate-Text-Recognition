@@ -29,8 +29,7 @@ python DTRB.ipynb
 | 6000            |    0.00275      | 0.58445         | 81.212         |
 
 
-| :-: | :-: | :-: | :-: | :-: |
-|     |     |     |     |     |
-| 180 | 182 | 240 | 250 | 250 |
-| <img src="Demo/image(50).jpg" width="45%"> | <img src="Demo/image(52).jpg" width="45%"> | <img src="Demo/image(53).jpg" width="45%"> | <img src="Demo/image(57).jpg" width="45%"> | <img src="Demo/image(64).jpg" width="45%"> |
 
+| <img src="Demo/image(50).jpg" width="45%"> | <img src="Demo/image(52).jpg" width="45%"> | <img src="Demo/image(53).jpg" width="45%"> |<imgsrc="Demo/image(57).jpg" width="45%"> | <img src="Demo/image(64).jpg" width="45%"> |
+| :-:                                     | :-:                    | :-:                   | :-:                            | :-:         |
+|     |     |     |     |     |
