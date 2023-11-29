@@ -31,7 +31,7 @@ python DTRB.ipynb
 
 
 
-| <img src="Demo/image(50).jpg" width="360"> | <img src="Demo/image(52).jpg" width="360"> | <img src="Demo/image(53).jpg" width="360"> |<imgsrc="Demo/image(68).jpg" width="360"> | <img src="Demo/image(64).jpg" width="360"> |
+| <img src="Demo/image(50).jpg" width="360">  | <img src="Demo/image(53).jpg" width="360"> |<imgsrc="Demo/image(68).jpg" width="360"> | <img src="Demo/image(64).jpg" width="360"> |
 | :-:                                     | :-:                    | :-:                   | :-:                            | :-:         |
-|  31m39174   |   77h82936  |   34u12574  |   32b73112  |  39r75612   |
-|  m =  م     |   h =  هـ    |   u = ص    |   b = ب     |  r=  ط      |
+|  31m39174   |   34u12574  |   32b73112  |  39r75612   |
+|  m =  م     |   u = ص    |   b = ب     |  r=  ط      |
