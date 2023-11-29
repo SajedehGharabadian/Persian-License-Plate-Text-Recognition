@@ -7,6 +7,7 @@ repository  to recognize persian license plate text
 
 ◻️ Use [IR-LPR]([(https://github.com/mut-deep/IR-LPR)https://github.com/mut-deep/IR-LPR]) for dataset train and validation 
 
+
 ## How to install
 ```
 pip insatll -r requirements.txt
